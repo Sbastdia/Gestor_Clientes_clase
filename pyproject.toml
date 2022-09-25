@@ -9,6 +9,8 @@ python = "^3.8"
 seaborn = "^0.12.0"
 unittest = "^0.0"
 Everything-Tkinter = "^0.2"
+fastapi = "^0.85.0"
+pydantic = "^1.10.2"
 
 [tool.poetry.dev-dependencies]
 
