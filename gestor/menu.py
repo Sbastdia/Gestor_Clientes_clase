@@ -59,6 +59,6 @@ def iniciar():
      dni) else print("Cliente no encontrado.")
    if opcion == '6':
      print("Saliendo...\n")
-    break
+   break
 input("\nPresiona ENTER para continuar...")
 

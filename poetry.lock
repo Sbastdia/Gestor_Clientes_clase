@@ -25,6 +25,14 @@ optional = false
 python-versions = ">=3.6"
 
 [[package]]
+name = "everything-tkinter"
+version = "0.2"
+description = "Everything-Tkinter gives you everything you need for tkinter. Made by the creator of Pip-for-CMD."
+category = "main"
+optional = false
+python-versions = ">=3"
+
+[[package]]
 name = "fonttools"
 version = "4.37.3"
 description = "Tools to manipulate font files"
@@ -188,11 +196,12 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "739a4430c8630dbbfca7b594a53dd2af89417d6d3d24cf90e82baf6379551a86"
+content-hash = "60ea154695f93b31f2f2743361edb9b66e61f7201aba6fa79aeee30e13290e4f"
 
 [metadata.files]
 contourpy = []
 cycler = []
+everything-tkinter = []
 fonttools = []
 kiwisolver = []
 matplotlib = []
