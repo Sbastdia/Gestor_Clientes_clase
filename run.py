@@ -1,5 +1,5 @@
 import sys
-import menu
+from gestor import menu
 import ui
 
 if __name__ == "__main__":
