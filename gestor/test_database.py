@@ -3,7 +3,7 @@ import unittest
 from gestor import helpers
 from gestor import database as db
 import csv
-import config
+import gestor.config as config
 
 class TestDatabase(unittest.TestCase):
   def setUp(self):
