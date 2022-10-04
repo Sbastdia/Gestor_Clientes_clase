@@ -1,5 +1,5 @@
-import helpers
-import database as db
+from gestor import helpers
+from gestor import database as db
 
 
 helpers.limpiar_pantalla()
